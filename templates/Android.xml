@@ -1,0 +1,10 @@
+<templateSet group="Android">
+  <template name="livedata" value="private val _$NAME$ = MutableLiveData&lt;$TYPE$&gt;($INITIALVALUE$)&#10;val $NAME$: LiveData&lt;$TYPE$&gt; = _$NAME$" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INITIALVALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
