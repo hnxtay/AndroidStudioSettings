@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R58M93RWN6N" />
+          </Key>
+        </key>
+        <name value="samsung SM-A507FN" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="221c9220621" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="samsung SM-A525F" />
         <target value="Android 12.0" />
         <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58M93RWN6N" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
