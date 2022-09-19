@@ -3,5 +3,8 @@
     <account name="hnxtay" id="7d615551-fb21-4cf9-a5f0-a0bc986c978e">
       <server host="github.com" />
     </account>
+    <account name="hnxtay-napaglobal" id="3aec4d77-5df9-47bc-99e4-937160849d9b">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
