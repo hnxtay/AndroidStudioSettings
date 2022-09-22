@@ -1,4 +1,7 @@
 <application>
+  <component name="DiffApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
       <list>
@@ -104,6 +107,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@github.com:1plus1equal1/android_base_mvvm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wraith007/OutlineTextView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

@@ -6,5 +6,8 @@
     <account name="hnxtay" id="7f5abb57-1f03-4c0f-a963-e769c79d56c5">
       <server host="github.com" />
     </account>
+    <account name="hnxtay-napaglobal" id="3aec4d77-5df9-47bc-99e4-937160849d9b">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
