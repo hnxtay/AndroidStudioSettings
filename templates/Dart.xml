@@ -1,5 +1,5 @@
 <templateSet group="Dart">
-  <template name="tt" value="context.theme.textTheme" toReformat="false" toShortenFQNames="true">
+  <template name="tt" value="context.theme.textTheme" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
     </context>
