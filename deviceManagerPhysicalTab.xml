@@ -10,7 +10,7 @@
         </key>
         <name value="samsung SM-A507FN" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Xiaomi M2010J19CG" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,28 @@
         </key>
         <name value="samsung SM-A525F" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6teuofda6tyl8xey" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8AVX100F2" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
