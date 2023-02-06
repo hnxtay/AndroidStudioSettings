@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Country" />
+    <option name="mostRecentlyUsed" value="package:mine MyApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MyApplication" />
+        <option value="package:mine My" />
         <option value="package:mine Country" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
