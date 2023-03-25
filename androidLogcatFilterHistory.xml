@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:areachat.android.dev.debug" />
         <option value="package:mine " />
         <option value="package:mine countTap" />
         <option value="package:mine MyApplication" />
